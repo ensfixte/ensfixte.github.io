@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ensfixte.github.io/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/app/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/assets/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/css/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/data/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/includes/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/item/sitemap.html.gz
+Sitemap: https://ensfixte.github.io/src/sitemap.html.gz
